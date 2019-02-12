@@ -1,0 +1,23 @@
+{
+  "veryFancyInputId": {
+    "type": "item",
+    "triggers": {
+      "add": {
+        "P27": {
+          "rank": "preferred",
+          "value": "#value"
+        }
+      },
+      "set": {
+        "P27": {
+          "rank": "normal"
+        }
+      }
+    }
+  },
+  "veryFancyInputId2": {
+    "triggers": {
+      "add": {"P17"}
+    }
+  }
+}

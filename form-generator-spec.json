@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Mayor",
+    "type": "item",
+    "inputfieldId": "veryFancyInputId"
+  },
+  {
+    "label": "Populationn",
+    "type": "number",
+    "inputfieldId": "veryFancyInputId2"
+  }
+]
